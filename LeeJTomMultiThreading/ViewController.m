@@ -48,7 +48,7 @@
 //		[self openTouchID];
 //	}
 
-	[self testNSTimer];
+//	[self testNSTimer];
 }
 
 - (void)testNSTimer {
